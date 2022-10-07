@@ -28,3 +28,6 @@ map %>%
    addTiles() %>%
    addMarkers(lat=18.922756, lng=72.834704, popup = "Gateway Of India, Mumbai")
 ```
+
+![image](https://user-images.githubusercontent.com/69183562/194653696-f72e058f-683f-4bbd-8a93-75edce4b04e4.png)
+
